@@ -1,0 +1,22 @@
+[
+  {
+    "name": "各种实例",
+    "icon": "fa fa-tachometer",
+    "sref": "#",
+    "submenu": [
+      {
+        "name": "表单元素",
+        "sref": "sso.form"
+      },
+      {
+        "name": "表格",
+        "sref": "sso.table"
+      }
+    ]
+  },
+  {
+    "name": "合同管理",
+    "icon": "fa fa-tachometer",
+    "sref": "contract.list"
+  }
+]
